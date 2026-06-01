@@ -1,6 +1,5 @@
-<!-- Header with animated wave -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Akhil+Siva+Chowdary;IoT+%26+Full+Stack+Dev;AI+%26+ML+Enthusiast;3x+National+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Akhil+Siva+Chowdary;IoT+%26+Full+Stack+Dev;AI+%26+ML+Enthusiast;3x+National+Hackathon+Winner" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -34,8 +33,6 @@
 
 ---
 
-
-
 ## 🛠️ Tech Stack & Skills
 
 | **Category**       | **Skills**                                                                 |
@@ -56,8 +53,6 @@
 - 🥇 **Winner** – IEEE IES Day Idea Pitching Competition, RVR & JC College (2025)
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
