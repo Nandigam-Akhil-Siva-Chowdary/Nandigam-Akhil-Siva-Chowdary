@@ -28,8 +28,7 @@
 **Full Stack Web Developer Intern** @ Avishkar Tech Solutions (Remote)  
 `Oct 2025 – Jan 2026`  
 - Built scalable client websites using Django backend, server hosting, and database management.  
-- Collaborated in an agile team to deliver production-ready solutions.  
-- [View Certificate](#)
+- Collaborated in an agile team to deliver production-ready solutions.
 
 ---
 
